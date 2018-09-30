@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:background="@mipmap/category4"
-    tools:context="com.multi.student.menuproject.KdramaCategory">
+    tools:context="com.multi.student.HanruyLove.KdramaCategory">
 
     <ListView
         android:id="@+id/listview"
